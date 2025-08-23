@@ -3,7 +3,7 @@ public:
     int romanToInt(string s) {
         map<char,int>value;
         value['I']=1;
-        value['V']=50;
+        value['V']=5;
         value['X']=10;
         value['L']=50;
         value['C']=100;
